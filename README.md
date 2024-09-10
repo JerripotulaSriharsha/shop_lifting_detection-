@@ -22,6 +22,10 @@ This project implements an advanced computer vision-based shop lifting detection
 - **Pixelation**: Custom algorithm to obscure faces in stored footage
 - **Deep Learning Framework**: PyTorch
 
+## Output
+
+![Output in GIF format](output.gif)
+
 ## Installation
 
 1. Clone the repository:
